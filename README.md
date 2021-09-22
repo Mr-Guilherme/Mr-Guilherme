@@ -6,7 +6,7 @@
 
 I am a Full-stack Web Developer who is exploring Backend and Frontend while facilitating the world with technology :slightly_smiling_face:
  
- 🔭 I’m developing for a Project **Google Drive Clone**.
+ 🔭 I’m developing a Project **Google Drive Clone**.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">.
  
@@ -17,9 +17,11 @@ I am a Full-stack Web Developer who is exploring Backend and Frontend while faci
 
 ![Profile views](https://gpvc.arturio.dev/Mr-Guilherme)  <img src="https://img.shields.io/github/followers/Mr-Guilherme?label=Follow" style=" float:left, margin-right:10px" />
 
+ 
 
 ---
 
+<img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### Tech & Tools Preference
 
