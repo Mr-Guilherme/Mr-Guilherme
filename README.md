@@ -1,8 +1,8 @@
-### Hi there, Guilherme Here 👋
+### Hi there, Guilherme Rodrigues Here 👋
 
-<!-- <p align="center">
-  <img src="" width="100%" title="Intro Card" alt="Intro Card">
-</p> -->
+<p align="center">
+  <img src="./banner-github.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 I am a Full-stack Web Developer who is exploring Backend and Frontend while facilitating the world with technology :slightly_smiling_face:
  
