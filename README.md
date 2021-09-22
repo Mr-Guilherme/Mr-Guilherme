@@ -21,7 +21,7 @@ I am a Full-stack Web Developer who is exploring Backend and Frontend while faci
 
 ---
 
-<img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### Tech & Tools Preference
 
