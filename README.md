@@ -1,4 +1,4 @@
-### Hi there, Guilherme Rodrigues Here 👋
+### Hi there, Guilherme Here 👋
 
 <p align="center">
   <img src="./banner-github.png" width="100%" title="Intro Card" alt="Intro Card">
