@@ -6,7 +6,7 @@
 
 I am a Full-stack Web Developer who is exploring Backend and Frontend while facilitating the world with technology :slightly_smiling_face:
  
- 🔭 I’m developing a Project **Google Drive Clone**.
+ 🔭 I’m presently studying in SoulCode's Fullstack Web bootcamp.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">.
  
