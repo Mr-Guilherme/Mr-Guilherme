@@ -6,16 +6,16 @@
 
 I am a Full-stack Web Developer who is exploring Backend and Frontend while facilitating the world with technology :slightly_smiling_face:
  
- 🔭 I’m presently studying in SoulCode's Fullstack Web bootcamp.
+ 🔭 I currently work as a software engineer at Mz Group.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">.
+ 🌱 At the moment I'm learning <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=yellow">.
  
- :books: I want to learn <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"> and <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">.
+ :books: I want to learn <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=flat&logo=rabbitmq&logoColor=white"> and <img src="https://img.shields.io/badge/redis-DC382D.svg?style=flat&logo=redis&logoColor=white">.
  
  💬 Ask me about Full Stack Development and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Mr-Guilherme)  <img src="https://img.shields.io/github/followers/Mr-Guilherme?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/Mr-Guilherme?label=Follow" style=" float:left, margin-right:10px" />
 
  
 
