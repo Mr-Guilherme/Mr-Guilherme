@@ -1,9 +1,5 @@
 ### Hi there, Guilherme Here 👋
 
-<p align="center">
-  <img src="./banner-github.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Full-stack Web Developer who is exploring Backend and Frontend while facilitating the world with technology :slightly_smiling_face:
  
  🔭 I currently work as a software engineer at Mz Group.
